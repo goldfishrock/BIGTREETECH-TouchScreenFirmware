@@ -29,7 +29,7 @@
     #define PT_BLTOUCH_TEST         "Testar"
     #define PT_BLTOUCH_DEPLOY       "Abrir"
     #define PT_BLTOUCH_STOW         "Encolher"
-    #define PT_BLTOUCH_REPEAT       "Repetir"
+    #define PT_BLTOUCH_REPEAT       "Redefinir"
     #define PT_PROBE_OFFSET         "Probe Offset"
     #define PT_EEPROM_SAVE          "Gravar"
     #define PT_INC                  "Aumentar"

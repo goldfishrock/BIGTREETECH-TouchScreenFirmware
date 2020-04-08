@@ -29,7 +29,7 @@
     #define SK_BLTOUCH_TEST         "Test"
     #define SK_BLTOUCH_DEPLOY       "Vystrčiť"
     #define SK_BLTOUCH_STOW         "Stiahnuť"
-    #define SK_BLTOUCH_REPEAT       "Opakovať"
+    #define SK_BLTOUCH_REPEAT       "Reset"
     #define SK_PROBE_OFFSET         "Probe Offset"
     #define SK_EEPROM_SAVE          "Uložiť"
     #define SK_INC                  "Pridať"

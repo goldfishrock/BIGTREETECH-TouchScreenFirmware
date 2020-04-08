@@ -29,7 +29,7 @@
     #define IT_BLTOUCH_TEST         "Test"
     #define IT_BLTOUCH_DEPLOY       "Schiera"
     #define IT_BLTOUCH_STOW         "Stiva"
-    #define IT_BLTOUCH_REPEAT       "Ripeti"
+    #define IT_BLTOUCH_REPEAT       "Ripristina"
     #define IT_PROBE_OFFSET         "Probe Offset"
     #define IT_EEPROM_SAVE          "Salva"
     #define IT_INC                  "Incrementa"

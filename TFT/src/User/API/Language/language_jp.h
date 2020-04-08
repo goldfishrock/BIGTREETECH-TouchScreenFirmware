@@ -29,7 +29,7 @@
     #define JP_BLTOUCH_TEST         "Test"
     #define JP_BLTOUCH_DEPLOY       "Deploy"
     #define JP_BLTOUCH_STOW         "Stow"
-    #define JP_BLTOUCH_REPEAT       "Repeat"
+    #define JP_BLTOUCH_REPEAT       "リセット"
     #define JP_PROBE_OFFSET         "Probe Offset"
     #define JP_EEPROM_SAVE          "Save"
     #define JP_INC                  "増え"

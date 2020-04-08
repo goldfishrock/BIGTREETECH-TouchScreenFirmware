@@ -29,7 +29,7 @@
     #define DU_BLTOUCH_TEST         "Test"
     #define DU_BLTOUCH_DEPLOY       "Gebruiken"
     #define DU_BLTOUCH_STOW         "Inzetten"
-    #define DU_BLTOUCH_REPEAT       "Herhaal"
+    #define DU_BLTOUCH_REPEAT       "Reset"
     #define DU_PROBE_OFFSET         "Probe Offset"
     #define DU_EEPROM_SAVE          "Bewaren"
     #define DU_INC                  "Verhogen"

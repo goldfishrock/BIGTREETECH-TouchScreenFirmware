@@ -29,7 +29,7 @@
     #define ES_BLTOUCH_TEST         "Probar"
     #define ES_BLTOUCH_DEPLOY       "Desplegar"
     #define ES_BLTOUCH_STOW         "Plegar"
-    #define ES_BLTOUCH_REPEAT       "Repetir"
+    #define ES_BLTOUCH_REPEAT       "Reiniciar"
     #define ES_PROBE_OFFSET         "Sonda Compensar"
     #define ES_EEPROM_SAVE          "Grabar"
     #define ES_INC                  "Aumentar"

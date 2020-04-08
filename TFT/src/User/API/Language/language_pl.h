@@ -29,7 +29,7 @@
     #define PL_BLTOUCH_TEST         "Test"
     #define PL_BLTOUCH_DEPLOY       "Wysuń"
     #define PL_BLTOUCH_STOW         "Schowaj"
-    #define PL_BLTOUCH_REPEAT       "Powtórz"
+    #define PL_BLTOUCH_REPEAT       "Resetowanie"
     #define PL_PROBE_OFFSET         "Przesunięcie"
     #define PL_EEPROM_SAVE          "Zapisz"
     #define PL_INC                  "Więcej"

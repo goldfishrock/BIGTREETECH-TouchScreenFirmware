@@ -29,7 +29,7 @@
     #define EN_BLTOUCH_TEST           "Test"
     #define EN_BLTOUCH_DEPLOY         "Deploy"
     #define EN_BLTOUCH_STOW           "Stow"
-    #define EN_BLTOUCH_REPEAT         "Repeat"
+    #define EN_BLTOUCH_REPEAT         "Reset"
     #define EN_PROBE_OFFSET           "Offset"
     #define EN_EEPROM_SAVE            "Save"
     #define EN_INC                    "Increase"

@@ -29,7 +29,7 @@
     #define CN_BLTOUCH_TEST         "BL自检"
     #define CN_BLTOUCH_DEPLOY       "探针弹出"
     #define CN_BLTOUCH_STOW         "探针收回"
-    #define CN_BLTOUCH_REPEAT       "精度测试"
+    #define CN_BLTOUCH_REPEAT       "重启"
     #define CN_PROBE_OFFSET         "Probe Offset"
     #define CN_EEPROM_SAVE          "保存参数"
     #define CN_INC                  "增加"
